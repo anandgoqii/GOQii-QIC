@@ -1,0 +1,11 @@
+{
+  "name": "GOQii QIC Mobile",
+  "description": "A premium enterprise-grade insurance and wellness ecosystem application by GOQii QIC, offering policy management, claims processing, and health tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
